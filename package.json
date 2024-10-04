@@ -1,0 +1,20 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Aayush Jha",
+  "license": "ISC",
+  "description": "Weather API Development",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "hbs": "^4.2.0",
+    "nodemon": "^3.1.4",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
